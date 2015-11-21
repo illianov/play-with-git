@@ -3,3 +3,5 @@ tomatoes
 onion
 chili powder
 tomato paste
+beans
+carrots
